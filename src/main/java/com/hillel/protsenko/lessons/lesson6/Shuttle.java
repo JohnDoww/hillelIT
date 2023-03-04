@@ -11,6 +11,7 @@ public class Shuttle {
             // First Variant
              if (number.contains("4")  || number.contains("9"))
              { numberOfShuttle--;continue;}
+
             //Another variant
             // if (id / 10 == 9 || id % 10==4||id % 10 == 9 || id / 10==4)
             // { numberOfShuttle--;continue;}
