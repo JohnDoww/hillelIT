@@ -6,9 +6,9 @@ public class Shuttle {
         int id =1;
         int desireAmount =100;
         for (; numberOfShuttle<desireAmount;id++) {
-            String number = String.valueOf(id);
             numberOfShuttle++;
             // First Variant
+            String number = String.valueOf(id);
              if (number.contains("4")  || number.contains("9"))
              { numberOfShuttle--;continue;}
 
