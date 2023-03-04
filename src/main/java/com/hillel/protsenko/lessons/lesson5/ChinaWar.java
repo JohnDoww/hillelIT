@@ -22,6 +22,8 @@ public class ChinaWar {
         int totalPowerMi = (miSol+miArch+miHors)*miTotalSol;
         System.out.println("MI dynasty - Total power: "+totalPowerMi);
 
+        System.out.println(140/10);
+
         /*  За владу в стародавньому Китаї боролися дві династії: Лі та Мінь.
                 З кожного боку боролися 3 типи воїнів з такими показниками атаки:
         Лі:
