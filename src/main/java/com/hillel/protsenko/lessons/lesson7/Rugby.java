@@ -18,7 +18,6 @@ public class Rugby {
             teamB[i] =  (int)(18+ (Math.random()*23));
             totalAgeB +=teamB[i];
         }
-
         avgAgeA = totalAgeA/totalPlayers;
         avgAgeB = totalAgeB/totalPlayers;
 
